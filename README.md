@@ -15,7 +15,7 @@ Seee järel kasutage käsku
 sudo ./recursive.sh
 ```
 
-1. Valige kausta tee /kaustanimi või <kaustanimi>
+1. Valige kausta tee /kaustanimi või < kaustanimi >
 
 2. Valige pikkus
 
